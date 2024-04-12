@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boaz Yunayev</h1>
-<h3 align="center">Computer Science Graduate with a passion for software development. My GPA is 91, and I was honored to be on the Dean's list in my first & second years. I love learning new technologies and building exciting projects.</h3>
+<h3 align="center">Computer Science graduate with a passion for software development. My GPA is 91, and I was honored to be on the Dean's list in my first & second years. I love learning new technologies and building exciting projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
